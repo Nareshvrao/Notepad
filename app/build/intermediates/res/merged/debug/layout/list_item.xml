@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_cell"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:orientation="vertical"
+    >
+
+
+    <TextView
+
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_weight="0.8"
+        android:drawablePadding="8dp"
+        android:gravity="center_vertical"
+        android:text="TITLE"
+        android:textColor="#212121"
+        android:textSize="18sp" />
+
+    <TextView
+
+        android:id="@+id/text"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_weight="0.8"
+        android:layout_height="wrap_content"
+        android:drawablePadding="8dp"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:textColor="#212121"
+        android:text="asdasdas as  asdasdasd  asdasd  asd  "
+        android:textSize="18sp"/>
+
+
+    <TextView
+
+        android:id="@+id/time"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_weight="0.8"
+        android:layout_height="wrap_content"
+        android:drawablePadding="8dp"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:textColor="#212121"
+        android:text="Jan 5 2012 03:45 pm  "
+        android:textSize="18sp"/>
+
+
+</LinearLayout>

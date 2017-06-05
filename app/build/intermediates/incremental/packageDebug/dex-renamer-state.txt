@@ -1,0 +1,7 @@
+#Mon Jun 05 14:13:57 IST 2017
+base.0=/Users/apple/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0303164c7bd8ab3cd71f21ec760ac5e02e92009a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/apple/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ad730d666426bb697034b79b3f72404c96c3e36d/classes.dex
+base.1=/Users/apple/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ad730d666426bb697034b79b3f72404c96c3e36d
+file.0=/Users/apple/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0303164c7bd8ab3cd71f21ec760ac5e02e92009a/classes.dex

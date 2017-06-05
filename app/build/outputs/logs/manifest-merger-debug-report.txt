@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:7:5-64
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:7:22-62
+application
+ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:9:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/apple/.android/build-cache/94a7e6393e9834d5a99d8ffb50fe241741503600/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.1.1] /Users/apple/.android/build-cache/b96c1d57df018ab8140e0bbda022c37263a15998/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/.android/build-cache/efcf2bb8d5bf06562c6a5a945c8d79b713834349/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/apple/.android/build-cache/9310a08a17b6ca1ef24238fb45cf4855874a2570/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/apple/.android/build-cache/043f6c8c0493a80991704e99dbd03abb7bbbd483/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.1.1] /Users/apple/.android/build-cache/592239dafd7b4153f3b6d2a326721326f95a66ce/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/apple/.android/build-cache/3e8788148040b74e844e5e05e284fdaf8b6cdeba/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/apple/.android/build-cache/e0c06a867e7b616af1e7ca5149424e430cf413a7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/apple/.android/build-cache/397a4025303ed8e334812c06f827aad556541bcf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/apple/.android/build-cache/70b8f9198621bc478c4d89f1c88c9aca6f67a48c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/apple/.android/build-cache/483466ca51a7518e18468ee9329fb18269da301a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/apple/.android/build-cache/32e085a658e0baf07c7a50d243460a9c5e431b7d/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.apple.myapplication.activity.NoteActivity
+ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:16:9-18:20
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:16:19-56
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:20:9-28:20
+	android:authorities
+		ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:22:13-60
+		INJECTED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml
+	android:grantUriPermissions
+		ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:24:13-47
+	android:exported
+		ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:21:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:25:13-27:57
+	android:resource
+		ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:27:17-55
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:26:17-67
+activity#com.example.apple.myapplication.activity.HomeActivity
+ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:30:9-36:20
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:30:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/apple/.android/build-cache/94a7e6393e9834d5a99d8ffb50fe241741503600/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.1.1] /Users/apple/.android/build-cache/b96c1d57df018ab8140e0bbda022c37263a15998/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/.android/build-cache/efcf2bb8d5bf06562c6a5a945c8d79b713834349/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/apple/.android/build-cache/9310a08a17b6ca1ef24238fb45cf4855874a2570/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/apple/.android/build-cache/043f6c8c0493a80991704e99dbd03abb7bbbd483/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] /Users/apple/.android/build-cache/9359a93e886e7eb5663254d0d75b852986ac7667/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] /Users/apple/.android/build-cache/592239dafd7b4153f3b6d2a326721326f95a66ce/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/apple/.android/build-cache/3e8788148040b74e844e5e05e284fdaf8b6cdeba/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/apple/.android/build-cache/e0c06a867e7b616af1e7ca5149424e430cf413a7/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/apple/.android/build-cache/397a4025303ed8e334812c06f827aad556541bcf/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/apple/.android/build-cache/70b8f9198621bc478c4d89f1c88c9aca6f67a48c/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/apple/.android/build-cache/483466ca51a7518e18468ee9329fb18269da301a/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/apple/.android/build-cache/32e085a658e0baf07c7a50d243460a9c5e431b7d/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.1] /Users/apple/.android/build-cache/b96c1d57df018ab8140e0bbda022c37263a15998/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/.android/build-cache/efcf2bb8d5bf06562c6a5a945c8d79b713834349/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/apple/.android/build-cache/9310a08a17b6ca1ef24238fb45cf4855874a2570/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/apple/.android/build-cache/043f6c8c0493a80991704e99dbd03abb7bbbd483/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/apple/.android/build-cache/3e8788148040b74e844e5e05e284fdaf8b6cdeba/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/apple/.android/build-cache/e0c06a867e7b616af1e7ca5149424e430cf413a7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/apple/.android/build-cache/397a4025303ed8e334812c06f827aad556541bcf/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/apple/.android/build-cache/70b8f9198621bc478c4d89f1c88c9aca6f67a48c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/apple/.android/build-cache/483466ca51a7518e18468ee9329fb18269da301a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/apple/.android/build-cache/32e085a658e0baf07c7a50d243460a9c5e431b7d/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/.android/build-cache/efcf2bb8d5bf06562c6a5a945c8d79b713834349/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/.android/build-cache/efcf2bb8d5bf06562c6a5a945c8d79b713834349/output/AndroidManifest.xml:26:9-47
